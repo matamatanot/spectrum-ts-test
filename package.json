@@ -8,8 +8,15 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@react-aria/breadcrumbs": "^3.1.1",
+    "@react-aria/button": "^3.3.0",
+    "@react-aria/dialog": "^3.1.2",
+    "@react-aria/focus": "^3.2.3",
+    "@react-aria/overlays": "^3.6.0",
     "@react-aria/radio": "^3.1.2",
     "@react-aria/ssr": "^3.0.1",
+    "@react-stately/data": "^3.1.2",
+    "@react-stately/overlays": "^3.1.1",
     "@react-stately/radio": "^3.2.1",
     "next": "latest",
     "react": "^16.14.0",
